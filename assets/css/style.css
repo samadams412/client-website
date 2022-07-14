@@ -34,6 +34,8 @@
 .video-card {
     width: 33%;
     margin: 2px 2px;
+    padding-top: 5px;
+    align-items: center;
 }
 
 div{
@@ -48,4 +50,9 @@ div{
 
 body{
     background-color: #aaaaaa;
+}
+
+.media-div {
+    border-top: 1px solid black;
+    margin-top: 3px;
 }
