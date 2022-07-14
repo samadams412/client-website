@@ -1,0 +1,51 @@
+.lead {
+    font-weight: 400;
+}
+
+.jumbotron {
+    border: 1px solid black;
+    border-radius: 25px;
+}
+
+.section-row {
+    border: 1px solid black;
+    border-radius: 15px;
+}
+
+.news-row {
+    border: 1px solid black;
+    border-radius: 15px;
+}
+
+.news-row p {
+    border-right: 1px solid black;
+    padding-right: 2px;
+}
+
+.news-row h4 {
+    border-bottom: 1px solid black;
+}
+
+.latest-news {
+    font-weight: 600;
+    font-style: italic;
+}
+
+.video-card {
+    width: 33%;
+    margin: 2px 2px;
+}
+
+div{
+    margin-top: 5px;
+}
+
+
+.media .card {
+    
+    border: .5px solid black;
+}
+
+body{
+    background-color: #aaaaaa;
+}
